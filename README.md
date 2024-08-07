@@ -1,6 +1,6 @@
 
 ![image](https://github.com/user-attachments/assets/43c6a322-9e5e-41a8-b219-19c10c001cf2)
-<img align="center" src="./Moniee Github Cover.mp4" style="border-radius: 20px; margin-top: 5px; box-shadow: 0 2px 10px 5px rgba(0, 0, 0, 0.5);">
+
 # 💫 About Me:
 👩‍💻 Technological Maverick | B.Tech Computer Science | KL University<br>🖥️ Passionate about C, Java, Python, and Web Development<br>📚 AWS Certified | Azure Certified | Oracle Certified<br>🔧 DevOps Enthusiast <br>📫 Reach me at: mounikayadla28@gmail.com<br>
 
