@@ -1,4 +1,5 @@
 
+![image](https://github.com/user-attachments/assets/43c6a322-9e5e-41a8-b219-19c10c001cf2)
 
 # 💫 About Me:
 👩‍💻 Technological Maverick | B.Tech Computer Science | KL University<br>🖥️ Passionate about C, Java, Python, and Web Development<br>📚 AWS Certified | Azure Certified | Oracle Certified<br>🔧 DevOps Enthusiast <br>📫 Reach me at: mounikayadla28@gmail.com<br>
